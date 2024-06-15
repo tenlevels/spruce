@@ -62,6 +62,7 @@ PICO-8 GAMES:
   - Currently only fake08 is supported once available.
 
   - Unfortunately MainUI is causing issues to launch Pico-8 games using the png extension.
+  
   Change the game to p8 extension by deleting .png from your cart file. I use ReNamer https://www.den4b.com/products/renamer
 
       Example:
