@@ -48,20 +48,21 @@ WHAT WAS DONE:
 
   SUPPORTED:    Amiga / Amstrad CPC / Arcade (FBNEO & Mame 2003+) / Atari 2600 / Atari 5200 / Atari 7800 / Atari Lynx / Bandai Sufami Turbo / Bandai WonderSwan & Color WS / Capcom Play System 1 / Capcom Play System 2 / Capcom Play System 3 / ColecoVision / Commodore 64 / Commodore VIC-20 / DOOM (PrBoom) / Fairchild Channel F / Famicom Disk System / FFPlay, Video & Music Player / Game & Watch / GCE Vectrex / Magnavox Odyssey 2 / Mattel Intellivision / Mega Duck / MS-DOS / MSX - MSX2 / NEC SuperGrafx / NE / TurboGrafx CD / NEC TurboGrafx-16 / Nintendo DS / Nintendo Entertainment System / Nintendo Game Boy / Nintendo Game Boy Advance / Nintendo Game Boy Color / Nintendo Pokemini / Nintendo Satellaview / Nintendo Super Game Boy / Nintendo Super Nintendo / Nintendo Virtual Boy / Nintendo64 / PICO-8 / Quake (Tyrquake) / ScummVM / Sega 32X / Sega CD / Sega Dreamcast / Sega Game Gear / Sega Genesis / Sega Genesis MSU / Sega Master System / Sega SG-1000 / Sharp X68000 / Sinclair ZX Spectrum / SNES MSU1 / SNK Neo Geo / SNK Neo Geo CD / SNK NeoGeo Pocket & Color NGP / Sony Playstation / Sony  PSP / TIC-80 / VideoPac / Watara Supervision / Wolfenstein3D (ECWolf)
 
+
  N64/DC/PSP
 
-I consider these "BONUS". If any games play and you enjoy it, GREAT! Do not expect these systems to run smooth. Again... Bonus!
+  I consider these "BONUS". If any games play and you enjoy it, GREAT! Do not expect these systems to run smooth. Again... Bonus!
 
  ARCADE GAMES:
 
-Arcade is set to use FBNEO to allow save states to function. MAME 2003 Plus is also included in the .ADD ONS folder. Save state is not supported in MAME.
+  Arcade is set to use FBNEO to allow save states to function. MAME 2003 Plus is also included in the .ADD ONS folder. Save state is not supported in MAME.
 
 PICO-8 GAMES:
 
-Currently only fake08 is supported once available.
+  Currently only fake08 is supported once available.
 
-Unfortunately MainUI is causing issues to launch Pico-8 games using the png extension.
- Change the game to p8 extension by deleting .png from your cart file. I use ReNamer https://www.den4b.com/products/renamer
+  Unfortunately MainUI is causing issues to launch Pico-8 games using the png extension.
+  Change the game to p8 extension by deleting .png from your cart file. I use ReNamer https://www.den4b.com/products/renamer
 
       Example:
         Tomb of G'Nir.p8.png
