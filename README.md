@@ -74,20 +74,20 @@ PICO-8 GAMES:
 
 **BIOS**
 
-  Place your BIOS files in the BIOS folder located in RetroArch/.retroarch
+  - Place your BIOS files in the BIOS folder located in RetroArch/.retroarch
 
 
 
 **RETROARCH**
 
-  Do not adjust settings in retroarch unless you are familiar with it.
+  - Do not adjust settings in retroarch unless you are familiar with it.
   Removing or changing settings may cause games or controls to not work correctly.
 
 
 
 **THEMES**
 
-  Included are 3 themes located in Settings. I plan on adding more icons and themes in the future.
+  - Included are 3 themes located in Settings. I plan on adding more icons and themes in the future.
   You can add themes from your Miyoo Mini or MMP. NOTE that there will be missing assets as the a30 has additional ones.
 
 
