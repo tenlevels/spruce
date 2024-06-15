@@ -17,6 +17,12 @@ WHAT WAS DONE:
 
 
 
+**INSTALL**
+
+  - Short version is to format your SD card to FAT32 and extract the zip onto your card. There is a very detailed step by step install guide in the zip file done by sundowndersport.
+
+
+
 **CONTROLS**
 
   GLOBAL:
@@ -90,9 +96,7 @@ PICO-8 GAMES:
   - Included are 3 themes located in Settings. I plan on adding more icons and themes in the future.
   You can add themes from your Miyoo Mini or MMP. NOTE that there will be missing assets as the a30 has additional ones.
 
-**INSTALL**
 
-  - Short version is to format your SD card to FAT32 and extract the zip onto your card. There is a very detailed step by step install guide in the zip file done by sundowndersport.
 
 Credits:
 
