@@ -96,7 +96,7 @@ PICO-8 GAMES:
   - Included are 3 themes located in Settings. I plan on adding more icons and themes in the future.
   You can add themes from your Miyoo Mini or MMP. NOTE that there will be missing assets as the a30 has additional ones.
 
-FAQ - To keep the ifo here as brief as possible there is an additional FAQ sheet.
+FAQ - To keep the info here concise there is an additional FAQ sheet.
   - Here https://archive.org/details/install-guide_20240615/FAQ.pdf
 
 Credits:
