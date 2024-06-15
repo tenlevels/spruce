@@ -94,16 +94,16 @@ PICO-8 GAMES:
 
 Credits:
 
-  Miyoo stock OS
-  Retroarch removal from MainUI, .tmp_update and BIOS folder move idea by Jim Gray
-  Onion team for the heavy lifting on finding the best cores to use with Miyoo and overall inspiration
-  LED SWITCH app by Ninoh-FOX
-  DinguxCommander update by BTN/Paradise
-  Drastic by Steward
-  Overlays from Onion & Darkhorse
-  Testing and encouragement by Hoo
-  Install guide, testing and support by sundowndersport
-  Photos, testing and support by supermodio64
+  Miyoo stock OS /
+  Retroarch removal from MainUI, .tmp_update and BIOS folder move idea by Jim Gray /
+  Onion team for the heavy lifting on finding the best cores to use with Miyoo and overall inspiration /
+  LED SWITCH app by Ninoh-FOX /
+  DinguxCommander update by BTN/Paradise /
+  Drastic by Steward /
+  Overlays from Onion & Darkhorse /
+  Testing and encouragement by Hoo /
+  Install guide, testing and support by sundowndersport /
+  Photos, testing and support by supermodio64 /
   Aemiii91 for being my mentor and friend
 
 
