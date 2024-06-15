@@ -51,17 +51,17 @@ WHAT WAS DONE:
 
   N64/DC/PSP
 
-  // I consider these "BONUS". If any games play and you enjoy it, GREAT! Do not expect these systems to run smooth. Again... Bonus!
+  - I consider these "BONUS". If any games play and you enjoy it, GREAT! Do not expect these systems to run smooth. Again... Bonus!
 
  ARCADE GAMES:
 
-  Arcade is set to use FBNEO to allow save states to function. MAME 2003 Plus is also included in the .ADD ONS folder. Save state is not supported in MAME.
+  - Arcade is set to use FBNEO to allow save states to function. MAME 2003 Plus is also included in the .ADD ONS folder. Save state is not supported in MAME.
 
 PICO-8 GAMES:
 
-  Currently only fake08 is supported once available.
+  - Currently only fake08 is supported once available.
 
-  Unfortunately MainUI is causing issues to launch Pico-8 games using the png extension.
+  - Unfortunately MainUI is causing issues to launch Pico-8 games using the png extension.
   Change the game to p8 extension by deleting .png from your cart file. I use ReNamer https://www.den4b.com/products/renamer
 
       Example:
