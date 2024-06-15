@@ -21,28 +21,28 @@ WHAT WAS DONE:
 
   GLOBAL:
 
-    BRIGHTNESS - START + L1 (lower) START + R1 (higher)
+  - BRIGHTNESS - START + L1 (lower) START + R1 (higher)
     VOLUME - SELECT + L1 (lower) START + R1 (higher)
 
   WHILE IN GAME:
 
-    SAVE/LOAD STATE RETROARCH - Home button
+  - SAVE/LOAD STATE RETROARCH - Home button
     EXIT GAME - Select + Start (PSP long hold power or use in game menu by pressing home button)
     FAST FORWARD - R2 (not for PSX)
 
   WHILE IN MENU:
 
-    REFRESH ROMS/ SEARCH - Home button
+  - REFRESH ROMS/ SEARCH - Home button
     SEARCH - Select
     SHUTDOWN - Hold power until Power Off pop up display (A to confirm)
 
   TURN OFF BLUE LED:
 
-    Go to apps and press A on LED SWITCH app. Thank you to Ninoh-FOX for this!
+  - Go to apps and press A on LED SWITCH app. Thank you to Ninoh-FOX for this!
 
   STICK DRIFT ISSUES:
 
-    Calibrate your stick through the settings tab in the main menu.
+  - Calibrate your stick through the settings tab in the main menu.
 
 **GAME SYSTEM INFO**
 
