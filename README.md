@@ -81,7 +81,7 @@ PICO-8 GAMES:
 **RETROARCH**
 
   - Do not adjust settings in retroarch unless you are familiar with it.
-  Removing or changing settings may cause games or controls to not work correctly.
+  Removing or changing settings may cause games or controls to not work correctly. Default settings are of Miyoo and will remove all the custom configuration done for spruce.
 
 
 
