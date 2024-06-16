@@ -25,6 +25,11 @@ WHAT WAS DONE:
   LED swith app included to turn on and off the blue LED
 
 
+  **DOWNLOAD**
+
+  - LINK https://github.com/tenlevels/spruce/releases
+
+
 
 **INSTALL**
 
