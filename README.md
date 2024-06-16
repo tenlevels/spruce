@@ -7,13 +7,21 @@ WHAT WAS DONE:
   All emulators and cores set to default options from Onion. No need to change cpu (keep on default)
   
   Remove RApp (Retroarch/Expert) from Main Menu
+  
   Visual changes to default theme to match stock Miyoo
+  
   In-game menu matches that of the theme loaded.
+  
   Imgs folder for box art now located inside rom folder.
+  
   BIOS folder created inside .retroarch folder
+  
   Auto save state and load enabled.
+  
   Remap files to have stick function on all systems.
+  
   Configuration of retroarch and almost no notifications or hotkeys. Feel free to enable and configure how you like.
+  
   LED swith app included to turn on and off the blue LED
 
 
