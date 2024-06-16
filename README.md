@@ -5,6 +5,7 @@ Trimmed Stock OS for Miyoo A30
 WHAT WAS DONE:
 
   All emulators and cores set to default options from Onion. No need to change cpu (keep on default)
+  
   Remove RApp (Retroarch/Expert) from Main Menu
   Visual changes to default theme to match stock Miyoo
   In-game menu matches that of the theme loaded.
