@@ -67,6 +67,7 @@ WHAT WAS DONE:
   N64/DC/PSP
 
   - I consider these "BONUS". If any games play and you enjoy it, GREAT! Do not expect these systems to run smooth. Again... Bonus!
+  - N64 controls - I did not touch these. The controller mapped on a hanheld seemed funky to me. I will wait for the community to let me know what they like for controls and will update for next release.
 
  ARCADE GAMES:
 
