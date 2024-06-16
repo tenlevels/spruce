@@ -10,17 +10,17 @@ WHAT WAS DONE:
   
   Visual changes to default theme to match stock Miyoo
   
-  In-game menu matches that of the theme loaded.
+  In-game menu matches that of the theme loaded
   
-  Imgs folder for box art now located inside rom folder.
+  Imgs folder for box art now located inside rom folder
   
   BIOS folder created inside .retroarch folder
   
-  Auto save state and load enabled.
+  Auto save state and load enabled
   
-  Remap files to have stick function on all systems.
+  Remap files to have stick function on all systems
   
-  Configuration of retroarch and almost no notifications or hotkeys. Feel free to enable and configure how you like.
+  Configuration of retroarch and almost no notifications or hotkeys. Feel free to enable and configure how you like
   
   LED swith app included to turn on and off the blue LED
 
