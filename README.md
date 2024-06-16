@@ -75,7 +75,7 @@ WHAT WAS DONE:
 
 PICO-8 GAMES:
 
-  - Currently only fake08 is supported once available.
+  - Currently only fake08 is supported. Will add native once available.
 
   - Unfortunately MainUI is causing issues to launch Pico-8 games using the png extension.
   
