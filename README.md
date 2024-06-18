@@ -74,8 +74,8 @@ SUPPORTED GAME SYSTEMS
 
   N64/DC/PSP*
 
-  - I consider these "BONUS". If any games play and you enjoy it, GREAT! Do not expect these systems to run smooth. Again... Bonus!
-  - N64 controls - I did not touch these. The controller mapped on a hanheld seemed funky to me. I will wait for the community to let me know what they like for controls and will update for next release.
+  - Consider these "BONUS". If any games play and you enjoy it, GREAT! Do not expect these systems to run smooth. Again... Bonus!
+  - N64 controls - The controller mapped on a hanheld is funky. Will wait for the community to let us know what they like for controls and will update.
 
  ARCADE GAMES:
 
