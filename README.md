@@ -1,4 +1,4 @@
-![sprucetreelogo](https://github.com/tenlevels/spruce/assets/139886575/bf932ff3-9abe-45f7-b837-39a241f6d082)
+![sprucetreelogo](https://github.com/tenlevels/spruce/assets/139886575/4e851b24-af22-4c9a-bfb2-eb7596b3cc29)
 
 spruce: *Trimmed Stock OS for Miyoo A30*
 
