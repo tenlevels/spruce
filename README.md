@@ -2,7 +2,7 @@
 Trimmed Stock OS for Miyoo A30
 
 
-  **DOWNLOAD**
+  **DOWNLOAD LATEST VERSION BELOW**
 
   - LINK https://github.com/tenlevels/spruce/releases
 
