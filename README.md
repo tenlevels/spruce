@@ -2,6 +2,11 @@
 Trimmed Stock OS for Miyoo A30
 
 
+  **DOWNLOAD**
+
+  - LINK https://github.com/tenlevels/spruce/releases
+
+
 WHAT WAS DONE:
 
   All emulators and cores set to default options from Onion. No need to change cpu (keep on default)
@@ -23,11 +28,6 @@ WHAT WAS DONE:
   Configuration of retroarch and almost no notifications or hotkeys. Feel free to enable and configure how you like
   
   LED swith app included to turn on and off the blue LED
-
-
-  **DOWNLOAD**
-
-  - LINK https://github.com/tenlevels/spruce/releases
 
 
 
