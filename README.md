@@ -9,7 +9,8 @@ Trimmed Stock OS for Miyoo A30
 
 WHAT WAS DONE:
 
-  All emulators and cores set to Onion default (originally). Changes have been made such as GBA and CPC. We will keep exploring the best options.
+  All emulators and cores set to Onion default (originally).
+  Changes have been made such as GBA and CPC. We will keep exploring the best options.
   
   Performance and overclock adjustments set. No need to change cpu (keep on default)
   
