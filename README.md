@@ -9,7 +9,9 @@ Trimmed Stock OS for Miyoo A30
 
 WHAT WAS DONE:
 
-  All emulators and cores set to default options from Onion. No need to change cpu (keep on default)
+  All emulators and cores set to Onion default (originally). Changes have been made such as GBA and CPC. We will keep exploring the best options.
+  
+  Performance and overclock adjustments set. No need to change cpu (keep on default)
   
   Remove RApp (Retroarch/Expert) from Main Menu
   
