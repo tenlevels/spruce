@@ -50,7 +50,7 @@ CONTROLS
   *WHILE IN GAME*
 
   - SAVE/LOAD STATE RETROARCH - Home button
-    EXIT GAME - Select + Start (PSP long hold power or use in game menu by pressing home button)
+    EXIT GAME - Select + Start (PSP home button and exit through menu)
     FAST FORWARD - R2 (not for PSX)
 
   *WHILE IN MENU*
