@@ -9,8 +9,7 @@ DOWNLOAD LATEST VERSION BELOW
 
 WHAT WAS DONE:
 
- - All emulators and cores set to Onion default (originally).
-  Changes have been made such as GBA and CPC. We will keep exploring the best options.
+ - All emulators and cores configured and performance considered..
 
  - Performance and overclock adjustments set. No need to change cpu (keep on default)
 
@@ -87,7 +86,7 @@ PICO-8 GAMES:
 
   - Unfortunately MainUI is causing issues to launch Pico-8 games using the png extension.
   
-  Change the game to p8 extension by deleting .png from your cart file. I use ReNamer https://www.den4b.com/products/renamer
+  Change the game to p8 extension by deleting .png from your cart file. A tool like ReNamer is very helpful and will bulk perform the task for you. https://www.den4b.com/products/renamer
 
       Example:
         Tomb of G'Nir.p8.png
