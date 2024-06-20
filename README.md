@@ -35,7 +35,7 @@ WHAT WAS DONE:
 
 INSTALL
 
-  - Short version is to format your SD card to FAT32 and extract the zip onto your card. There is a very detailed step by step install guide in the zip file done by sundowndersport. Install Guide is also here https://archive.org/details/install-guide_20240615_1825
+  - Short version is to format your SD card to FAT32 and extract the zip onto your card. There is a very detailed step by step install guide in the zip file done by sundowndersport. Install Guide is also here [https://archive.org/details/install-guide_20240615_1825](https://archive.org/details/spruce-install-and-update-guide-v-1.09)
 
 
 
