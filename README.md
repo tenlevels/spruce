@@ -117,7 +117,7 @@ THEMES
   You can add themes from your Miyoo Mini or MMP. NOTE that there will be missing assets as the a30 has additional ones.
 
 
-Credits:
+Credits/Thanks:
 
   Miyoo stock OS /
   Retroarch removal from MainUI by Jim Gray /
@@ -130,6 +130,7 @@ Credits:
   Install guide, testing and support by sundowndersport /
   Photos, testing and support by supermodio64 /
   Aemiii91 for being my mentor and friend
+  Russ from RGC - His YouTube channel started it all for me
 
 
 THANK YOU TO THE AMAZING MIYOO COMMUNITY!!
