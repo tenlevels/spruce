@@ -13,7 +13,7 @@ WHAT WAS DONE:
 
  - Performance and overclock adjustments set. No need to change cpu (keep on default)
 
- - Remove RApp (Retroarch/Expert) from Main Menu
+ - Remove RApp (RetroArch/Expert) from Main Menu
 
  - Visual changes to default theme to match stock Miyoo
 
@@ -27,7 +27,7 @@ WHAT WAS DONE:
 
  - Remap files to have stick function on all systems
 
- - Configuration of retroarch and almost no notifications or hotkeys. Feel free to enable and configure how you like
+ - Configuration of RetroArch and almost no notifications or hotkeys. Feel free to enable and configure how you like
 
  - LED disabled
 
@@ -57,10 +57,6 @@ CONTROLS
   - REFRESH ROMS/ SEARCH - Home button
     SEARCH - Select
     SHUTDOWN - Hold power until Power Off pop up display (A to confirm)
-
-  *TURN OFF BLUE LED*
-
-  - Go to apps and press A on LED SWITCH app. Thank you to Ninoh-FOX for this!
 
   *STICK DRIFT ISSUES*
 
@@ -104,7 +100,7 @@ SUPPORTED GAME SYSTEMS
 
 BIOS
 
-  - Place your BIOS files in the BIOS folder located in RetroArch/.retroarch
+  - Place your BIOS files in the BIOS folder on root of SD card.
 
 
 
@@ -120,8 +116,6 @@ THEMES
   - Included are 3 themes located in Settings. I plan on adding more icons and themes in the future.
   You can add themes from your Miyoo Mini or MMP. NOTE that there will be missing assets as the a30 has additional ones.
 
-FAQ - To keep the info here concise there is an additional FAQ sheet.
-  - Here https://archive.org/details/install-guide_20240615_1825/FAQ.pdf
 
 Credits:
 
