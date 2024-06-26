@@ -29,13 +29,13 @@ WHAT WAS DONE:
 
  - Configuration of retroarch and almost no notifications or hotkeys. Feel free to enable and configure how you like
 
- - LED swith app included to turn on and off the blue LED
+ - LED disabled
 
 
 
 INSTALL
 
-  - Short version is to format your SD card to FAT32 and extract the zip onto your card. There is a very detailed step by step install guide in the zip file done by sundowndersport. Install Guide is also here [https://archive.org/details/install-guide_20240615_1825](https://archive.org/details/spruce-install-and-update-guide-v-1.09)
+  - Short version is to format your SD card to FAT32 and extract the zip onto your card. There is a very detailed step by step install guide in the zip file done by sundowndersport. Install Guide is also in zip download.
 
 
 
@@ -49,7 +49,7 @@ CONTROLS
   *WHILE IN GAME*
 
   - SAVE/LOAD STATE RETROARCH - Home button
-    EXIT GAME - Select + Start (PSP home button and exit through menu)
+    EXIT GAME - Select + Start (PSP home button and exit through menu) Pico-8 press start from gamelist and home from splore
     FAST FORWARD - R2 (not for PSX)
 
   *WHILE IN MENU*
@@ -80,13 +80,20 @@ SUPPORTED GAME SYSTEMS
 
   - Arcade is set to use FBNEO to allow save states to function. MAME 2003 Plus is also included in the .ADD ONS folder. Save state is not supported in MAME.
 
-PICO-8 GAMES:
+ 
+ PICO-8 GAMES:
 
-  - Currently only fake08 is supported. Will add native once available.
+   - We strongly encourage you to buy and support Pico-8. https://www.lexaloffle.com/pico-8.php?#getpico8 You will need to purchase the Raspberry Pi version to obtain the dat and dyn files.
 
-  - Unfortunately MainUI is causing issues to launch Pico-8 games using the png extension.
+   - PICO-8 games will launch native from the roms folder. Place your games in the CARTS folder. You need to provide your own dat and dyn files and place them in the bin folder located in sdcard/App/PICO/bin. You can also use splore with Wi-Fi to browse and play games by launching it from the App. There are so many wonderful games and they seem to just keep getting better. Pico-8 is a great way for indie game makers to create and share with the world. We cannot say enough good things about Pico-8. Enjoy!
+
+
+  *Fake08 is also included.
+
+  Unfortunately MainUI is causing issues to launch Pico-8 games using the png extension with Fake08.
   
-  Change the game to p8 extension by deleting .png from your cart file. A tool like ReNamer is very helpful and will bulk perform the task for you. https://www.den4b.com/products/renamer
+  - Change the game to p8 extension by deleting .png from your cart file. 
+  A tool like ReNamer is very helpful and will bulk perform the task for you. https://www.den4b.com/products/renamer
 
       Example:
         Tomb of G'Nir.p8.png
@@ -119,11 +126,11 @@ FAQ - To keep the info here concise there is an additional FAQ sheet.
 Credits:
 
   Miyoo stock OS /
-  Retroarch removal from MainUI, .tmp_update and BIOS folder move idea by Jim Gray /
+  Retroarch removal from MainUI by Jim Gray /
   Onion team for the heavy lifting on finding the best cores to use with Miyoo and overall inspiration /
-  LED SWITCH app by Ninoh-FOX /
   DinguxCommander update by BTN/Paradise /
   Drastic by Steward /
+  Pico-8 wrapper by Ninoh-FOX and Steward
   Overlays from Onion & Darkhorse /
   Testing and encouragement by Hoo /
   Install guide, testing and support by sundowndersport /
