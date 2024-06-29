@@ -38,6 +38,16 @@
 
   - Place your BIOS files in the BIOS folder on root of SD card.
 
+## UPDATE
+
+To update:
+
+- Download the latest release and extract the contents
+- Remove the `BIOS` and `Roms` folders from the extracted zip
+- Copy the remaining files/folders onto your SD card, replacing any existing contents
+
+This will retain all your games, saves, and emulator bios files.
+
 ## CONTROLS
 
   *GLOBAL*
