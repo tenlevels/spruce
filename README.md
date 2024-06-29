@@ -32,7 +32,7 @@
 
 ## INSTALL
 
-  - Short version is to format your SD card to FAT32 and extract the zip onto your card. There is a very detailed step by step install guide in the zip file done by sundowndersport. Install Guide is also in zip download.
+  - Short version is to format your SD card to FAT32 and extract the zip onto your card. There is a very detailed step by step install guide in the zip file done by sundowndersport loacated in the spruce folder.
 
 ### BIOS
 
