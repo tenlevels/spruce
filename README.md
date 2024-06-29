@@ -43,8 +43,8 @@
 To update:
 
 - Download the latest release and extract the contents
-- Remove the `BIOS` and `Roms` folders from the extracted zip
-- Copy the remaining files/folders onto your SD card, replacing any existing contents
+- Remove everything on your SD card except for `BIOS` and `Roms` folders
+- Place the contents of the zip onto your SD card.
 
 This will retain all your games, saves, and emulator bios files.
 
