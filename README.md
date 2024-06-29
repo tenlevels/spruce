@@ -104,16 +104,16 @@
 
 ## Credits/Thanks
 
-  - Miyoo stock OS /
-  - Retroarch removal from MainUI by Jim Gray /
-  - Onion team for the heavy lifting on finding the best cores to use with Miyoo and overall inspiration /
-  - DinguxCommander update by BTN/Paradise /
-  - Drastic by Steward /
+  - Miyoo stock OS
+  - Retroarch removal from MainUI by Jim Gray
+  - Onion team for the heavy lifting on finding the best cores to use with Miyoo and overall inspiration
+  - DinguxCommander update by BTN/Paradise
+  - Drastic by Steward
   - Pico-8 wrapper by Ninoh-FOX and Steward
-  - Overlays from Onion & Darkhorse /
-  - Testing and encouragement by Hoo /
-  - Install guide, testing and support by sundowndersport /
-  - Photos, testing and support by supermodio64 /
+  - Overlays from Onion & Darkhorse
+  - Testing and encouragement by Hoo
+  - Install guide, testing and support by sundowndersport
+  - Photos, testing and support by supermodio64
   - Aemiii91 for being my mentor and friend
   - Russ from RGC - His YouTube channel started it all for me
 
