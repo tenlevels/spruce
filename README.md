@@ -78,8 +78,7 @@ This will retain all your games, saves, and emulator bios files.
   N64/DC/PSP:
 
   - Consider these "BONUS". If any games play and you enjoy it, GREAT! Do not expect these systems to run smooth. Again... Bonus!
-  - N64 controls - The controller mapped on a hanheld is funky. Will wait for the community to let us know what they like for controls and will update.
-
+ 
  ARCADE GAMES:
 
   - Arcade is set to use FBNEO to allow save states to function. MAME 2003 Plus is also included in the .ADD ONS folder. Save state is not supported in MAME.
