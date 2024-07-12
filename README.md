@@ -32,7 +32,8 @@
 
 ## INSTALL
 
-  - Short version is to format your SD card to FAT32 and extract the zip onto your card. There is a very detailed step by step install guide in the zip file done by sundowndersport located in the spruce folder.
+  - The short version is to format your SD card to FAT32 and extract the zip file onto your card.
+  - There is a very detailed step by step guide located in the spruce folder of the zip file done by Sundowndersport . It is also available on his Archive page here: https://archive.org/details/@sundownersport
 
 ### BIOS
 
@@ -43,7 +44,7 @@
 To update:
 
 - Download the latest release and extract the contents
-- Remove everything on your SD card except for `BIOS` `Roms` `Saves` folders
+- Delete everything on your SD card except for `BIOS` `Roms` `Saves` folders
 - Place the contents of the zip onto your SD card.
 
 This will retain all your games, saves, and emulator bios files.
