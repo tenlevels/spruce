@@ -1,6 +1,6 @@
 ![sprucetreelogo](https://github.com/tenlevels/spruce/assets/139886575/f248b441-835c-4f2e-b849-cec145b3ffcf)
 
-# spruce: *Trimmed Stock OS for Miyoo A30*
+# spruce: *SD Card Overhaul for Miyoo A30*
 
 ## DOWNLOAD LATEST VERSION BELOW
 
