@@ -33,6 +33,7 @@
 ## INSTALL
 
   - The short version is to format your SD card to FAT32 and extract the zip file onto your card.
+  - See the new Wiki! https://github.com/tenlevels/spruce/wiki/Installation-Instructions
   - There is a very detailed step by step guide located in the spruce folder of the zip file done by Sundowndersport . It is also available on his Archive page here: https://archive.org/details/@sundownersport
 
 ### BIOS
