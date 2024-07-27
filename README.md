@@ -123,9 +123,10 @@ This will retain all your games, saves, and emulator bios files.
   - Pico-8 wrapper by Ninoh-FOX and Steward
   - Overlays from Onion & Darkhorse
   - Testing and encouragement by Hoo
-  - Install guide, testing and support by sundowndersport
+  - Install guide, wiki, testing and support by sundowndersport
   - Photos, testing and support by supermodio64
   - Aemiii91 for being my mentor and friend
   - Russ from RGC - His YouTube channel started it all for me
+  - Huge thank you to Decojon for the Auto Save/Quick Shutdown + Resume feature!
 
 THANK YOU TO THE AMAZING MIYOO COMMUNITY!!
