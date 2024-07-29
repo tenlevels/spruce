@@ -76,8 +76,8 @@ This will retain all your games, saves, and emulator bios files.
   *WHILE IN MENU*
 
   - REFRESH ROMS/ SEARCH - Home button
-    SEARCH - Select
-    SHUTDOWN - Hold power until Power Off pop up display (A to confirm)
+  - SEARCH - Select
+  - SHUTDOWN - Hold power until Power Off pop up display (A to confirm)
 
   *STICK DRIFT ISSUES*
 
