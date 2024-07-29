@@ -127,7 +127,6 @@ This will retain all your games, saves, and emulator bios files.
 
   - Huge thank you to Decojon for the Auto Save/Quick Shutdown + Resume feature!
   - Help, support and Bootlogo function (and lots of other stuff!) from Shauninman.
-  - Miyoo stock OS
   - Retroarch removal from MainUI by Jim Gray
   - Onion team for the heavy lifting on finding the best cores to use with Miyoo and overall inspiration
   - DinguxCommander update by BTN/Paradise
