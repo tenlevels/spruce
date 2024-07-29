@@ -20,7 +20,7 @@
 
  - Imgs folder for box art now located inside rom folder
 
- - BIOS folder created inside .retroarch folder
+ - BIOS folder created in root of SD card
 
  - Auto save state and load enabled
 
@@ -46,7 +46,7 @@ To update:
 
 - Download the latest release and extract the contents
 - Delete everything on your SD card except for `BIOS` `Roms` `Saves` folders
-- Place the contents of the zip onto your SD card.
+- Place the entire contents of the latest spruce zip folder onto your SD card.
 
 This will retain all your games, saves, and emulator bios files.
 
@@ -110,7 +110,7 @@ This will retain all your games, saves, and emulator bios files.
 
 ## THEMES
 
-  - Included are 3 themes located in Settings. I plan on adding more icons and themes in the future.
+  - Included are 4 themes located in Settings. I plan on adding more icons and themes in the future.
   You can add themes from your Miyoo Mini or MMP. NOTE that there will be missing assets as the a30 has additional ones.
 
 ## Credits/Thanks
@@ -128,5 +128,6 @@ This will retain all your games, saves, and emulator bios files.
   - Aemiii91 for being my mentor and friend
   - Russ from RGC - His YouTube channel started it all for me
   - Huge thank you to Decojon for the Auto Save/Quick Shutdown + Resume feature!
+  - Help, support and Bootlogo function (and lots of other stuff!) from Shauninman.
 
 THANK YOU TO THE AMAZING MIYOO COMMUNITY!!
