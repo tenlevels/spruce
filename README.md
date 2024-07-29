@@ -14,9 +14,9 @@
 
  - All emulators and cores configured and performance considered..
 
- - Auto Save and Shutdown Feature added thanks to Decojon!
+ - Auto Save and Shutdown Feature added.
 
- - Bootlogo App added thanks to ShaunInman!
+ - Bootlogo App added.
 
  - Performance and overclock adjustments set. No need to change cpu in settings (keep on default).
 
