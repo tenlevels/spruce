@@ -7,11 +7,11 @@
     
 ## DOWNLOAD LATEST VERSION BELOW
 
-  - LINK https://github.com/tenlevels/spruce/releases
+  - [CLICK HERE FOR THE LATEST RELEASE](https://github.com/tenlevels/spruce/releases)
 
-## CHECK OUT THE NEW WIKI
+## FIND HOW-TO INFO AND MUCH MORE!
   
-  - LINK https://github.com/tenlevels/spruce/wiki 
+  - [CLICK HERE TO SEE THE WIKI](https://github.com/tenlevels/spruce/wiki) 
 
 ## WHAT WAS DONE:
 
@@ -45,14 +45,13 @@
 
   - The short version is: format your SD card to FAT32 and extract the zip file directly onto your SD card.
     
-  - For more information, see the new Wiki page! https://github.com/tenlevels/spruce/wiki/Installation-Instructions
+  - For more information, see the new [Wiki installation page](https://github.com/tenlevels/spruce/wiki/Installation-Instructions)
 
 ## BIOS
 
   - Place your BIOS files in the BIOS folder on the root of SD card.
 
 ## UPDATE
-
 To update:
 
 - Download the latest release and extract the contents.
@@ -60,6 +59,8 @@ To update:
 - Place the entire contents of the latest spruce zip folder onto your SD card.
 
 This will retain all your games, saves, and emulator bios files.
+
+[See our updating spruce wiki page for more info](https://github.com/tenlevels/spruce/wiki/Updating-to-the-Latest-Release)
 
 ## CONTROLS
 
