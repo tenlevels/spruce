@@ -15,7 +15,7 @@
 
 ## WHAT WAS DONE:
 
- - All emulators and cores preconfigured with performance considered.
+ - All emulators and cores are preconfigured with performance considered.
 
  - Auto Save/Quick Shutdown + Resume feature added.
 
@@ -23,7 +23,7 @@
 
  - Performance and overclock adjustments are preset. There is no need to change CPU in settings (keep set to "Default").
 
- - Remove RApp (RetroArch/Expert) from Main Menu.
+ - Removed RApp (RetroArch/Expert) from Main Menu.
 
  - Visual changes to default theme to match stock Miyoo.
 
@@ -44,6 +44,7 @@
 ## INSTALL
 
   - The short version is: format your SD card to FAT32 and extract the zip file directly onto your SD card.
+    
   - For more information, see the new Wiki page! https://github.com/tenlevels/spruce/wiki/Installation-Instructions
 
 ## BIOS
@@ -64,17 +65,20 @@ This will retain all your games, saves, and emulator bios files.
 
   *GLOBAL*
 
-  - BRIGHTNESS - START + L1 (lower) START + R1 (higher)
-  - VOLUME - SELECT + L1 (lower) START + R1 (higher)
+  - BRIGHTNESS: START + L1 (to lower brightness) START + R1 (to increase brightness)
+  - VOLUME: SELECT + L1 (to lower volume) START + R1 (to increase volume)
 
   *WHILE IN GAME*
 
-  - Quit Game - Hold Select for 2 seconds and then:
-    Press B to quit game or Start to Save and Shutdown.
+  - QUIT GAME:  Hold Select for 2 seconds and then;
+    
+    Press B to quit game
+    **or**
+     Start to Save and Shutdown.
 
-  - SAVE/LOAD STATE RETROARCH - Home button
-    EXIT GAME - Select + Start (PSP home button and exit through menu) Pico-8 press start from gamelist and home from splore
-    FAST FORWARD - R2 (not for PSX)
+  - SAVE/LOAD STATE RETROARCH: Home button
+  - EXIT GAME: Select + Start (PSP home button and exit through menu) Pico-8 press start from gamelist and home from splore
+  - FAST FORWARD: R2 (not for PSX)
 
   *WHILE IN MENU*
 
