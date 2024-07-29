@@ -12,13 +12,13 @@
 
 ## WHAT WAS DONE:
 
- - All emulators and cores configured and performance considered..
+ - All emulators and cores preconfigured with performance considered.
 
- - Auto Save and Shutdown Feature added.
+ - Auto Save/Quick Shutdown + Resume feature added.
 
  - Bootlogo App added.
 
- - Performance and overclock adjustments set. No need to change cpu in settings (keep on default).
+ - Performance and overclock adjustments are preset. There is no need to change CPU in settings (keep set to "Default").
 
  - Remove RApp (RetroArch/Expert) from Main Menu.
 
@@ -26,33 +26,33 @@
 
  - In-game menu matches that of the theme loaded.
 
- - Imgs folder for box art now located inside rom folder.
+ - Imgs folders for box art are now located inside each Rom folder.
 
- - BIOS folder created in root of SD card.
+ - BIOS folder has been created on the root of SD card.
 
  - Auto save state and load enabled.
 
- - Remap files to have stick function on all systems.
+ - Joystick function enabled on all systems.
 
- - Configuration of RetroArch and almost no notifications or hotkeys. Feel free to enable and configure how you like.
+ - Configuration of RetroArch with almost no notifications or hotkeys.
 
- - LED disabled.
+ - The blue LED has been disabled.
 
 ## INSTALL
 
-  - The short version is to format your SD card to FAT32 and extract the zip file onto your card.
-  - See the new Wiki! https://github.com/tenlevels/spruce/wiki/Installation-Instructions
+  - The short version is: format your SD card to FAT32 and extract the zip file directly onto your SD card.
+  - For more information, see the new Wiki page! https://github.com/tenlevels/spruce/wiki/Installation-Instructions
 
-### BIOS
+## BIOS
 
-  - Place your BIOS files in the BIOS folder on root of SD card.
+  - Place your BIOS files in the BIOS folder on the root of SD card.
 
 ## UPDATE
 
 To update:
 
-- Download the latest release and extract the contents
-- Delete everything on your SD card except for `BIOS` `Roms` `Saves` folders
+- Download the latest release and extract the contents.
+- Delete everything on your SD card except for the "BIOS", "Roms" and "Saves" folders.
 - Place the entire contents of the latest spruce zip folder onto your SD card.
 
 This will retain all your games, saves, and emulator bios files.
@@ -62,7 +62,7 @@ This will retain all your games, saves, and emulator bios files.
   *GLOBAL*
 
   - BRIGHTNESS - START + L1 (lower) START + R1 (higher)
-    VOLUME - SELECT + L1 (lower) START + R1 (higher)
+  - VOLUME - SELECT + L1 (lower) START + R1 (higher)
 
   *WHILE IN GAME*
 
