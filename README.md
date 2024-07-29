@@ -2,6 +2,9 @@
 
 # spruce: *SD Card Overhaul for Miyoo A30*
 
+  - Spruce is not really an operating system (OS) on its own. It is a beautification and optimization of the stock Miyoo OS that cleans up bloat, optimizes performance, focuses on aesthetics and ease of use.
+  - Spruce is intended to be sleek, intuitive, efficient and user friendly, we hope that you enjoy it.
+    
 ## DOWNLOAD LATEST VERSION BELOW
 
   - LINK https://github.com/tenlevels/spruce/releases
@@ -83,45 +86,16 @@ This will retain all your games, saves, and emulator bios files.
 
   - Calibrate your stick through the settings tab in the main menu.
 
-## SUPPORTED GAME SYSTEMS
-
-*Amiga / Amstrad CPC / Arcade (FBNEO & Mame 2003+) / Atari 2600 / Atari 5200 / Atari 7800 / Atari Lynx / Bandai Sufami Turbo / Bandai WonderSwan & Color WS / Capcom Play System 1 / Capcom Play System 2 / Capcom Play System 3 / ColecoVision / Commodore 64 / Commodore VIC-20 / DOOM (PrBoom) / Fairchild Channel F / Famicom Disk System / FFPlay, Video & Music Player / Game & Watch / GCE Vectrex / Magnavox Odyssey 2 / Mattel Intellivision / Mega Duck / MS-DOS / MSX - MSX2 / NEC SuperGrafx / NE / TurboGrafx CD / NEC TurboGrafx-16 / Nintendo DS / Nintendo Entertainment System / Nintendo Game Boy / Nintendo Game Boy Advance / Nintendo Game Boy Color / Nintendo Pokemini / Nintendo Satellaview / Nintendo Super Game Boy / Nintendo Super Nintendo / Nintendo Virtual Boy / Nintendo64 / PICO-8 / Quake (Tyrquake) / ScummVM / Sega 32X / Sega CD / Sega Dreamcast / Sega Game Gear / Sega Genesis / Sega Genesis MSU / Sega Master System / Sega SG-1000 / Sharp X68000 / Sinclair ZX Spectrum / SNES MSU1 / SNK Neo Geo / SNK Neo Geo CD / SNK NeoGeo Pocket & Color NGP / Sony Playstation / Sony  PSP / TIC-80 / VideoPac / Watara Supervision / Wolfenstein3D (ECWolf)*
-
-  N64/DC/PSP:
-
-  - Consider these "BONUS". If any games play and you enjoy it, GREAT! Do not expect these systems to run smooth. Again... Bonus!
- 
- ARCADE GAMES:
-
-  - Arcade is set to use FBNEO to allow save states to function. MAME 2003 Plus is also included in the .ADD ONS folder. Save state is not supported in MAME.
-
- PICO-8 GAMES:
-
-   - We strongly encourage you to buy and support Pico-8. https://www.lexaloffle.com/pico-8.php?#getpico8 You will need to purchase the Raspberry Pi version to obtain the dat and dyn files.
-
-   - PICO-8 games will launch native from the roms folder. Place your games in the CARTS folder. You need to provide your own dat and dyn files and place them in the bin folder located in sdcard/App/PICO/bin. You can also use splore with Wi-Fi to browse and play games by launching it from the App. There are so many wonderful games and they seem to just keep getting better. Pico-8 is a great way for indie game makers to create and share with the world. We cannot say enough good things about Pico-8. Enjoy!
-
-  - Fake08 is also included.
-
-    Unfortunately MainUI is causing issues to launch Pico-8 games using the png extension with Fake08.
-  
-  - Change the game to p8 extension by deleting .png from your cart file. 
-  A tool like ReNamer is very helpful and will bulk perform the task for you. https://www.den4b.com/products/renamer
-
-      Example:
-        Tomb of G'Nir.p8.png
-        to
-        Tomb of G'Nir.p8
-
 ## RETROARCH
 
-  - Do not adjust settings in retroarch unless you are familiar with it.
-  Removing or changing settings may cause games or controls to not work correctly. "Default" settings are from Miyoo and will remove all the custom configuration that has been done for spruce.
+  - Please do not adjust the settings in Retroarch unless you are very familiar with it.
+  - Removing or changing settings may cause games or controls to not work correctly.
+  - The "Default" settings are from Miyoo and will remove all the custom configuration that has been done for spruce.
 
 ## THEMES
 
-  - Included are 4 themes located in Settings. I plan on adding more icons and themes in the future.
-  You can add themes from your Miyoo Mini or MMP. NOTE that there will be missing assets as the a30 has additional ones.
+  - Included are 4 themes located in Settings. More icons and themes are planned to be added in the future.
+  - You can add themes from your Miyoo Mini or MMP. NOTE: There will be some missing assets as the A30 has additional ones.
 
 ## Credits/Thanks
 
@@ -141,3 +115,11 @@ This will retain all your games, saves, and emulator bios files.
 
 
 THANK YOU TO THE AMAZING MIYOO COMMUNITY!!
+
+## SUPPORTED GAME SYSTEMS
+
+*Amiga / Amstrad CPC / Arcade (FBNEO & Mame 2003+) / Atari 2600 / Atari 5200 / Atari 7800 / Atari Lynx / Bandai Sufami Turbo / Bandai WonderSwan & Color WS / Capcom Play System 1 / Capcom Play System 2 / Capcom Play System 3 / ColecoVision / Commodore 64 / Commodore VIC-20 / DOOM (PrBoom) / Fairchild Channel F / Famicom Disk System / FFPlay, Video & Music Player / Game & Watch / GCE Vectrex / Magnavox Odyssey 2 / Mattel Intellivision / Mega Duck / MS-DOS / MSX - MSX2 / NEC SuperGrafx / NE / TurboGrafx CD / NEC TurboGrafx-16 / Nintendo DS / Nintendo Entertainment System / Nintendo Game Boy / Nintendo Game Boy Advance / Nintendo Game Boy Color / Nintendo Pokemini / Nintendo Satellaview / Nintendo Super Game Boy / Nintendo Super Nintendo / Nintendo Virtual Boy / Nintendo64 / PICO-8 / Quake (Tyrquake) / ScummVM / Sega 32X / Sega CD / Sega Dreamcast / Sega Game Gear / Sega Genesis / Sega Genesis MSU / Sega Master System / Sega SG-1000 / Sharp X68000 / Sinclair ZX Spectrum / SNES MSU1 / SNK Neo Geo / SNK Neo Geo CD / SNK NeoGeo Pocket & Color NGP / Sony Playstation / Sony  PSP / TIC-80 / VideoPac / Watara Supervision / Wolfenstein3D (ECWolf)*
+
+  - N64/DC/PSP:
+
+    -Consider these "BONUS". If any games play and you enjoy it, GREAT! Do not expect these systems to run smooth. Again... Bonus!
