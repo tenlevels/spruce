@@ -2,7 +2,8 @@
 
 # spruce: *SD Card Overhaul for Miyoo A30*
 
-  - Spruce is not really an operating system (OS) on its own. It is a beautification and optimization of the stock Miyoo OS that cleans up bloat, optimizes performance, focuses on aesthetics and ease of use.
+  - Spruce is not really an operating system (OS) on its own.
+  - We think spruce is best described as being a beautification and optimization of the stock Miyoo OS that cleans up bloat, optimizes performance and focuses on aesthetics.
   - Spruce is intended to be sleek, intuitive, efficient and user friendly, we hope that you enjoy it.
     
 ## DOWNLOAD LATEST VERSION BELOW
@@ -99,8 +100,8 @@ This will retain all your games, saves, and emulator bios files.
 
 ## THEMES
 
-  - Included are 4 themes located in Settings. More icons and themes are planned to be added in the future.
-  - You can add themes from your Miyoo Mini or MMP. NOTE: There will be some missing assets as the A30 has additional ones.
+  - Included are four themes located in Settings. More icons and themes are planned to be added in the future.
+  - You can add themes from your Miyoo Mini or MMP. NOTE: There will be some missing assets because the A30 has additional ones.
 
 ## Credits/Thanks
 
@@ -113,7 +114,7 @@ This will retain all your games, saves, and emulator bios files.
   - Pico-8 wrapper by Ninoh-FOX and Steward
   - Overlays from Onion & Darkhorse
   - Testing and encouragement by Hoo
-  - Install guide, wiki, testing and support by sundowndersport
+  - Wiki, testing and support by SundownderSport
   - Photos, testing and support by supermodio64
   - Aemiii91 for being my mentor and friend
   - Russ from RGC - His YouTube channel started it all for me
