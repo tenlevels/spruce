@@ -6,35 +6,42 @@
 
   - LINK https://github.com/tenlevels/spruce/releases
 
+## CHECK OUT THE NEW WIKI
+  
+  - LINK https://github.com/tenlevels/spruce/wiki 
+
 ## WHAT WAS DONE:
 
  - All emulators and cores configured and performance considered..
 
- - Performance and overclock adjustments set. No need to change cpu (keep on default)
+ - Auto Save and Shutdown Feature added thanks to Decojon!
 
- - Remove RApp (RetroArch/Expert) from Main Menu
+ - Bootlogo App added thanks to ShaunInman!
 
- - Visual changes to default theme to match stock Miyoo
+ - Performance and overclock adjustments set. No need to change cpu in settings (keep on default).
 
- - In-game menu matches that of the theme loaded
+ - Remove RApp (RetroArch/Expert) from Main Menu.
 
- - Imgs folder for box art now located inside rom folder
+ - Visual changes to default theme to match stock Miyoo.
 
- - BIOS folder created in root of SD card
+ - In-game menu matches that of the theme loaded.
 
- - Auto save state and load enabled
+ - Imgs folder for box art now located inside rom folder.
 
- - Remap files to have stick function on all systems
+ - BIOS folder created in root of SD card.
 
- - Configuration of RetroArch and almost no notifications or hotkeys. Feel free to enable and configure how you like
+ - Auto save state and load enabled.
 
- - LED disabled
+ - Remap files to have stick function on all systems.
+
+ - Configuration of RetroArch and almost no notifications or hotkeys. Feel free to enable and configure how you like.
+
+ - LED disabled.
 
 ## INSTALL
 
   - The short version is to format your SD card to FAT32 and extract the zip file onto your card.
   - See the new Wiki! https://github.com/tenlevels/spruce/wiki/Installation-Instructions
-  - There is a very detailed step by step guide located in the spruce folder of the zip file done by Sundowndersport . It is also available on his Archive page here: https://archive.org/details/@sundownersport
 
 ### BIOS
 
@@ -58,6 +65,9 @@ This will retain all your games, saves, and emulator bios files.
     VOLUME - SELECT + L1 (lower) START + R1 (higher)
 
   *WHILE IN GAME*
+
+  - Quit Game - Hold Select for 2 seconds and then:
+    Press B to quit game or Start to Save and Shutdown.
 
   - SAVE/LOAD STATE RETROARCH - Home button
     EXIT GAME - Select + Start (PSP home button and exit through menu) Pico-8 press start from gamelist and home from splore
@@ -106,7 +116,7 @@ This will retain all your games, saves, and emulator bios files.
 ## RETROARCH
 
   - Do not adjust settings in retroarch unless you are familiar with it.
-  Removing or changing settings may cause games or controls to not work correctly. Default settings are of Miyoo and will remove all the custom configuration done for spruce.
+  Removing or changing settings may cause games or controls to not work correctly. "Default" settings are from Miyoo and will remove all the custom configuration that has been done for spruce.
 
 ## THEMES
 
@@ -115,6 +125,8 @@ This will retain all your games, saves, and emulator bios files.
 
 ## Credits/Thanks
 
+  - Huge thank you to Decojon for the Auto Save/Quick Shutdown + Resume feature!
+  - Help, support and Bootlogo function (and lots of other stuff!) from Shauninman.
   - Miyoo stock OS
   - Retroarch removal from MainUI by Jim Gray
   - Onion team for the heavy lifting on finding the best cores to use with Miyoo and overall inspiration
@@ -127,7 +139,6 @@ This will retain all your games, saves, and emulator bios files.
   - Photos, testing and support by supermodio64
   - Aemiii91 for being my mentor and friend
   - Russ from RGC - His YouTube channel started it all for me
-  - Huge thank you to Decojon for the Auto Save/Quick Shutdown + Resume feature!
-  - Help, support and Bootlogo function (and lots of other stuff!) from Shauninman.
+
 
 THANK YOU TO THE AMAZING MIYOO COMMUNITY!!
