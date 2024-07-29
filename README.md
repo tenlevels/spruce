@@ -10,7 +10,7 @@
 
   - [CLICK HERE FOR THE LATEST RELEASE](https://github.com/tenlevels/spruce/releases)
 
-## FIND HOW-TO INFO AND MUCH MORE!
+## NEED HELP?
   
   - [CLICK HERE TO SEE THE WIKI](https://github.com/tenlevels/spruce/wiki) 
 
