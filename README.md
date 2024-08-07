@@ -12,7 +12,7 @@ For full spruce 2.0 (syncthing and more just added!) and beyond visit https://gi
 
 What makes 2.0 and TL different?
 
-_2.0 is the real public release found on the new sprucUI GitHub, TL is "tenlevels" edition for fun and a farewell. You could say TL also stands for "totally limited". Meaning lots of features are not available. Think of it as MinUI's and Onion's teenage brother.  Full of  angst.  🤣_ 
+_2.0 is the real public release found on the new spruceUI GitHub, TL is "tenlevels" edition for fun and a farewell. You could say TL also stands for "totally limited". Meaning lots of features are not available. Think of it as MinUI's and Onion's teenage brother.  Full of  angst.  🤣_ 
 
 This community is so great.
 
