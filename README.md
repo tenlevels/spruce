@@ -6,7 +6,7 @@ Thank you all for the support. The reception for spruce has been amazing. It is 
 
 Please enjoy this limited TL edition of spruce. My device has this exact set up. :)
 
-UPDATE: After 1,000 downloads I have removed the TL edition. If you missed it... maybe ask around. Cheers.
+UPDATE TL EDITION IS (SOLD OUT): After 1,000 downloads I have removed the TL edition. If you missed it... maybe ask around. Cheers.
 
 **SPRUCE 2.0 AVAILABLE HERE**
 visit https://github.com/spruceUI/spruceOS - SundownerSport has the keys now
